@@ -48,7 +48,7 @@ function App() {
           onSubmit={generateAnswer}
           className="w-full md:w-2/3 m-auto text-center rounded bg-white dark:bg-black py-2"
         >
-          <a href="https://github.com/Vishesh-Pandey/chat-ai" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Abhishek-Gharat" target="_blank" rel="noopener noreferrer">
             {/* <h1 className="text-3xl text-center">CHAT AI WEB APP</h1> */}
             <div className="font-extrabold text-3xl md:text-5xl [text-wrap:balance] bg-clip-text bg-gradient-to-r from-slate-200/60 to-50% to-slate-200 dark:text-white text-black text-center">
   AI CHAT APP 
